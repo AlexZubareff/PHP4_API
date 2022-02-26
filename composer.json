@@ -1,0 +1,17 @@
+{
+    "name": "aleks/php4_api",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/App"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alex Zubarev",
+            "email": "azv99@yandex.ru"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.19"
+    }
+}
